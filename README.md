@@ -1,6 +1,6 @@
 ### Olá! Sou o Guilherme Vinicius Amancio 👋
 
-- 🔭 Atualmente trabalho na empresa Exed Consulting com consultoria de SAP.
+- 🔭 Atualmente trabalho na empresa Randoncorp com SAP.
 - 🌱 Aprendendo Python no momento.
 
 
